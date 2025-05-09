@@ -41,4 +41,4 @@ if __name__ == "__main__":
     print("Alt+Ctrl+Shift+1: Copy all text")
     print("Alt+Ctrl+Shift+2: Copy as table")
     print("Alt+Ctrl+Shift+3: Copy text")
-    stroke()
+    stroke() #test
